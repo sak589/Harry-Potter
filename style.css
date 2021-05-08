@@ -1,0 +1,143 @@
+body
+{
+background-color: red;
+margin-right:10px;
+margin-left:5px;
+}
+h1
+{
+font: normal normal bolder 60px cursive;
+text-shadow: 15px 5px 15px;
+text-decoration: underline;
+color: red;
+background-color: black;
+text-align: center;
+padding-top: 30px;
+}
+time
+{
+font:   40px cursive;
+padding-top: 50px;
+padding-right: 30px;
+padding-bottom: 50px;
+
+}
+details
+{
+text-align: center;
+height:inherit;
+width:inherit;
+}
+iframe
+{
+padding: 20px 20px 20px 20px;
+margin-left: 30px;
+}
+h2
+{
+font: normal normal bold 50px cursive;
+text-shadow: 5px 5px 10px;
+padding-top: 15px;
+padding-right: 100px;
+padding-left: 130px;
+ text-decoration: underline;
+color: #ffffff;
+background-color: #990000;
+text-align :center;
+}
+.list
+{
+font: normal normal condensed 100px serif;
+}
+h3
+{
+font: italic normal 50px cursive;
+text-align: center;
+text-decoration: underline;
+}
+section #details
+{
+font: oblique 70px serif;
+padding-top: 15px;
+padding-right: 50;
+padding-left: 60px;
+padding-bottom: 80px;
+margin-left:30px;
+}
+img
+{
+width:400px;
+}
+p
+{
+font: normal bold 40px sans-serif;
+padding-top: 15px;
+padding-right: 50;
+padding-left: 30px;
+padding-bottom: 80px;
+text-align: left;
+}
+.source
+{
+font: normal normal 20px fantasy;
+color: black;
+}
+button
+{
+  background-color: SeaGreen;
+border: none;
+color: white;
+padding: 12px 16px;
+margin: 4px 2px;
+font-size: 20px;
+cursor: pointer;
+}
+button:hover
+{
+cursor: pointer;
+background-color: Fuchsia;
+}
+.a
+{
+border: solid red;
+border-width: 2px;
+border-style: dotted;
+padding: 25px 50px 75px 100px;
+font: normal small-caps 50px cursive;
+}
+
+span
+{
+font-style:bold;
+background-color: black;
+ color: red;
+font-size:22px;
+text-decoration:underline;
+  white-space: nowrap;
+margin-right: 35px;
+padding-top: 25px ;
+padding-bottom: 15px;
+text-shadow:orange;
+}
+span strong
+{
+font-size:60px;
+}
+.Snippet
+{
+text-shadow: 5px 5px 5px 5px;
+font: normal small-caps bold 60px serif;
+text-align:center;
+padding: 30px 30px 20px 20px;
+margin-bottom: 20px;
+}
+span.italic
+{
+background-color:purple;
+color: white;
+font-style: italic;
+font-size: 30px;
+padding: 20px 20px 20px 20px;
+border: dotted white;
+
+  }
